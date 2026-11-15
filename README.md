@@ -1,6 +1,6 @@
 # 🎸 Riff Studio
 
-### Wielościeżkowe studio do komponowania gitar, basu, perkusji i pianina
+### Wielościeżkowy program do komponowania gitar, basu, perkusji i pianina
 
 **Windows • Tauri 2 • React • TypeScript • alphaTab • Web Audio API**
 
