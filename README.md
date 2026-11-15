@@ -1,8 +1,3 @@
-[README_Riff_Studio_1.0.md](https://github.com/user-attachments/files/34864115/README_Riff_Studio_1.0.md)
-# riff-studio-releases
-Riff Studio — Windows installer downloads
-<div align="center">
-
 # 🎸 Riff Studio
 
 ### Wielościeżkowe studio do komponowania gitar, basu, perkusji i pianina
